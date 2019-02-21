@@ -29,3 +29,14 @@ E:\NETKA\NSD_Services\ProblemEscalator_HIA\ProblemEscalator\ProblemEscalator\obj
 E:\NETKA\NSD_Services\ProblemEscalator_HIA\ProblemEscalator\ProblemEscalator\obj\Debug\ProblemEscalator.Resources.resources
 E:\NETKA\NSD_Services\ProblemEscalator_HIA\ProblemEscalator\ProblemEscalator\obj\Debug\ProblemEscalator.ProblemEscalator.resources
 E:\NETKA\NSD_Services\ProblemEscalator_HIA\ProblemEscalator\ProblemEscalator\obj\Debug\ProblemEscalator.vbproj.GenerateResource.Cache
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\bin\Debug\ProblemEscalator.exe.config
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\obj\Debug\ProblemEscalator.exe
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\obj\Debug\ProblemEscalator.xml
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\obj\Debug\ProblemEscalator.pdb
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\bin\Debug\ProblemEscalator.exe
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\bin\Debug\ProblemEscalator.pdb
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\bin\Debug\ProblemEscalator.xml
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\obj\Debug\ProblemEscalator.vbprojResolveAssemblyReference.cache
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\obj\Debug\ProblemEscalator.Resources.resources
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\obj\Debug\ProblemEscalator.ProblemEscalator.resources
+E:\NETKA\NSD_HIA\NSD_Source_Code_HIA\ProblemEscalator\ProblemEscalator\obj\Debug\ProblemEscalator.vbproj.GenerateResource.Cache
