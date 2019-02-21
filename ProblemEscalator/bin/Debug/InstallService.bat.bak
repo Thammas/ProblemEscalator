@@ -1,0 +1,3 @@
+INSTSRV "Problem Escalator" "E:\NETKA\NSD_Services\ProblemEscalator\ProblemEscalator\ProblemEscalator\bin\Debug"
+NET START "Problem Escalator"
+pause
